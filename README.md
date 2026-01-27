@@ -16,30 +16,26 @@ I am Antonio Speranza
 </p>
 
 Keep in touch
-<a href="https://x.com/vincenzo_orrei">
-  <img align="left" alt="Vincenzo's X" width="18px" src="https://cdn.simpleicons.org/x/ffffff" />
+<a href="https://www.linkedin.com/in/antonio-speranza-7692731a3/">
+  <img align="left" alt="Antonio's LinkedIn" width="18px" src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png" />
 </a>
-<a href="https://www.linkedin.com/in/vincenzo-orrei/">
-  <img align="left" alt="Vincenzo's LinkedIn" width="18px"
-       src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png" />
+<a href="https://github.com/antoniohopee">
+  <img align="left" alt="Antonio's Github" width="18px" src="https://cdn.simpleicons.org/github/ffffff" />
 </a>
-<a href="https://github.com/vincenzorrei">
-  <img align="left" alt="Vincenzo's Github" width="18px" src="https://cdn.simpleicons.org/github/ffffff" />
+<a href="https://t.me/antoniohopee">
+  <img align="left" alt="Antonio's Telegram" width="18px" src="https://cdn.simpleicons.org/telegram/ffffff" />
 </a>
-<a href="https://t.me/VinVincent1">
-  <img align="left" alt="Vincenzo's Telegram" width="18px" src="https://cdn.simpleicons.org/telegram/ffffff" />
+<a href="https://www.instagram.com/antoniohopee/">
+  <img align="left" alt="Antonio's Instagram" width="18px" src="https://cdn.simpleicons.org/instagram/ffffff" />
 </a>
-<a href="https://www.instagram.com/vin.orrei/">
-  <img align="left" alt="Vincenzo's Instagram" width="18px" src="https://cdn.simpleicons.org/instagram/ffffff" />
-</a>
-<a href="https://www.kaggle.com/vincenzoorrei">
-  <img align="left" alt="Vincenzo's Kaggle" width="18px" src="https://cdn.simpleicons.org/kaggle/ffffff" />
+<a href="https://www.kaggle.com/antoniohope">
+  <img align="left" alt="Antonio's Kaggle" width="18px" src="https://cdn.simpleicons.org/kaggle/ffffff" />
 </a>
 
 <br clear="left" />
 <br />
 
-<p>🟎 Visit my <a href="https://vincenzorrei.com">personal website</a></p>
+<p>🟎 Visit my e-commerce <a href="https://www.myserviceonline.it">company website</a></p>
 
 <!--
 **antoniohopee/antoniohopee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

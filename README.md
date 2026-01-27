@@ -1,21 +1,19 @@
-Welcome on my github!
+## Welcome to my GitHub 👋
+
 <!-- Immagine del profilo con margine a destra -->
-
-
 <!-- Testo a destra dell'immagine -->
+
+### 👤 About me
+I am <b>Antonio Speranza</b>, an Aspiring Data Analyst with a strong business and operations background.
+
 <p>
-  I have a wide range of interests, from playing guitar and producing electronic music, to photography and reading, but if you're here, it's probably because you're interested in another one of my passions: <b>data science</b>.
+● Experience in business operations, company software management, accounting support, and e-commerce.<br />
+● Strong analytical mindset developed through hands-on operational and data-driven activities.<br />
+● Advanced Excel user, currently transitioning toward Python-based data analysis and AI.<br />
+● Motivated to grow, collaborate, and connect with professionals in the data and AI ecosystem.<br />
 </p>
 
-I am Antonio Speranza
-<p>
-●   An ML & GenAI freelance data scientist.<br />
-●   A SQL, Python and AI teacher.<br />
-●   Always curious and eager to explore and share insights in the AI world. <br />
-●   I'm endlessy looking for opportunities. I love to learn and contribute in any and every possible way.<br />
-</p>
-
-Keep in touch
+### 🤝 Let’s connect
 <a href="https://www.linkedin.com/in/antonio-speranza-7692731a3/">
   <img align="left" alt="Antonio's LinkedIn" width="18px" src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png" />
 </a>
@@ -34,8 +32,6 @@ Keep in touch
 
 <br clear="left" />
 <br />
-
-<p>🟎 Visit my e-commerce <a href="https://www.myserviceonline.it">company website</a></p>
 
 <!--
 **antoniohopee/antoniohopee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

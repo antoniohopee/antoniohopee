@@ -1,9 +1,6 @@
-## Welcome to my GitHub 👋
+## Welcome to my GitHub
 
-<!-- Immagine del profilo con margine a destra -->
-<!-- Testo a destra dell'immagine -->
-
-### 👤 About me
+### About me
 I am <b>Antonio Speranza</b>, an Aspiring Data Analyst with a strong business and operations background.
 
 <p>
@@ -13,7 +10,7 @@ I am <b>Antonio Speranza</b>, an Aspiring Data Analyst with a strong business an
 ● Motivated to grow, collaborate, and connect with professionals in the data and AI ecosystem.<br />
 </p>
 
-### 🤝 Let’s connect
+### Let’s connect
 <a href="https://www.linkedin.com/in/antonio-speranza-7692731a3/">
   <img align="left" alt="Antonio's LinkedIn" width="18px" src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png" />
 </a>

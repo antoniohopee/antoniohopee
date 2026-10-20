@@ -1,47 +1,59 @@
 # Antonio Speranza
 
-### Data Operations | ERP, E-commerce, Python & SQL
+### Data Analyst | SQL | Python | ERP & Data Engineering
 
-I work with business data, ERP systems and e-commerce operations.
+I work at the intersection of business data, ERP systems and process automation.
 
-In my current role, I manage ERP workflows and end-to-end e-commerce operations. I also developed an internal SaaS application that enables sales agents to interact with company data and exchange information with the ERP.
+Over the past 5+ years, I have worked across administration, accounting, IT support, logistics, e-commerce, reporting and ERP management within an SME environment.
 
-Alongside my professional work, I build projects with **Python** and **SQL**, focusing on process automation, data analysis and practical business applications.
+My main focus today is data: extracting and analysing business information, building KPI reports, improving data quality and designing internal tools that automate operational workflows.
+
+I am currently strengthening my skills in SQL, Python, data modeling and data pipelines, with the goal of moving from Data Analysis toward Data Engineering.
 
 ---
 
 ## What I work on
 
-- Managing ERP data and operational workflows
-- Supporting end-to-end e-commerce operations
-- Maintaining product, customer and commercial data
-- Developing internal tools for sales and business processes
-- Connecting applications with existing business systems
-- Using Python and SQL for automation, analysis and reporting
+- Business data analysis and KPI reporting
+- SQL queries on ERP and operational databases
+- ERP data flows and business-system integrations
+- Data quality, reconciliation and anomaly detection
+- Internal tools and process automation
+- API integrations with external platforms
+- AI-assisted development of operational applications
+- Applied AI and Machine Learning experimentation
 
 ---
 
-## Featured projects
+## Featured Projects
 
 ### [FoodHoreca Portal](https://github.com/antoniohopee/foodhoreca-portal-demo)
 
-A demo order portal designed for sales agents in the food-service industry.
+B2B portal designed for sales agents in the food-service industry.
 
-It includes customer-specific pricing, product packaging rules, order management, ERP-compatible data export, an idempotent ETL pipeline and a KPI dashboard.
+The application connects business data with ERP-related workflows and provides order management, customer-specific pricing, inventory information and KPI dashboards.
 
-**Key areas:** business logic, ERP integration, data synchronization, backend development and automated testing.
+The project includes an ERP-to-MySQL data pipeline with incremental synchronization, UPSERT logic, backfill procedures, audit controls and data reconciliation.
 
-`Python` `SQL` `FastAPI` `MySQL` `Docker` `ETL` `pytest`
+It also includes an experimental local AI assistant based on an LLM, designed to query controlled ERP data such as products, stock availability, lots and expiration dates.
+
+**Key areas:**  
+ERP integration · Data pipelines · SQL · MySQL · Data quality · KPI reporting · Process automation · Applied AI
+
+`SQL` `MySQL` `PHP` `ETL` `ERP Integration` `Data Quality` `Ollama` `LLM Tool Calling`
 
 ---
 
 ### [Sakila SQL Analysis](https://github.com/antoniohopee/sakila-sql-analysis)
 
-A business data analysis project based on the Sakila sample database.
+Business data analysis project based on the Sakila sample database.
 
-The project uses SQL and Python to analyze revenue, customer value, monthly performance, geographic results, store performance and product categories. It also produces reusable CSV outputs, charts and a final business presentation.
+The project uses SQL and Python to analyse revenue, customer value, monthly performance, geographic results, store performance and product categories.
 
-**Key areas:** SQL querying, business KPIs, data analysis and reporting.
+The analysis produces reusable datasets, charts and a final business presentation focused on actionable KPIs.
+
+**Key areas:**  
+SQL querying · Business KPIs · Data analysis · Reporting · Data visualization
 
 `SQL` `SQLite` `Python` `pandas` `Jupyter` `matplotlib`
 
@@ -49,53 +61,94 @@ The project uses SQL and Python to analyze revenue, customer value, monthly perf
 
 ### [Telco Customer Churn](https://github.com/antoniohopee/telco-churn-ml)
 
-A collaborative machine-learning project developed to predict customer churn for a telecommunications company.
+Collaborative Machine Learning project focused on customer churn prediction in the telecommunications sector.
 
-The workflow covers data cleaning, exploratory analysis, feature preparation, model training and performance comparison.
+The workflow includes data cleaning, exploratory data analysis, feature preparation, model training and performance comparison.
 
-**Key areas:** data preparation, exploratory data analysis and supervised machine learning.
+**Key areas:**  
+Data preparation · Exploratory Data Analysis · Supervised Machine Learning · Model evaluation
 
 `Python` `pandas` `scikit-learn` `Jupyter` `Machine Learning`
 
 ---
 
-## Technical skills
+### [extr_ade](https://github.com/antoniohopee/extr_ade)
 
-### Core
+Python tool for extracting electronic invoices from the Italian Revenue Agency portal, which does not provide a public API for the required workflow.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+The project uses browser automation to perform paginated extraction, incremental downloads and recovery after interruptions.
 
-### Data and analysis
+It also includes retry logic, XML parsing and consistency checks on invoice totals.
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+**Key areas:**  
+Data ingestion · Browser automation · Incremental processing · XML parsing · Data quality
 
-### Application development
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+`Python` `Playwright` `XML` `Data Ingestion` `pytest`
 
 ---
 
-## Current direction
+## Skills
 
-My main areas of interest are:
+### Core experience
 
-- Data operations and data quality
-- ERP and business-system integrations
-- Process automation
-- SQL and business data analysis
-- Internal tools and operational applications
+- SQL
+- MySQL
+- SQLite
+- Excel
+- Data Analysis
+- KPI Reporting
+- ERP systems
+- Data Quality
+- Git / GitHub
+
+### Working knowledge / Project experience
+
+- Python
+- pandas
+- API integration
+- ETL / ELT concepts
+- Data modeling
+- PHP
+- FastAPI
+- Docker
+- Machine Learning
+- LLM applications
+
+### Business & Operations
+
+- ERP workflows
+- Accounting and administrative processes
+- E-commerce operations
+- Inventory and logistics data
+- Requirements analysis
+- Process improvement
+- Internal reporting
+
+---
+
+## Current Direction
+
+My current goal is to evolve from Data Analysis toward Data Engineering.
+
+I am focusing on:
+
+- Advanced SQL
+- Python for data workflows
+- Data modeling
+- ETL / ELT pipelines
+- Data quality and validation
+- Workflow orchestration
+- Data warehouses
+- Cloud data platforms
+
+I am also exploring AI and Machine Learning, especially where they can be applied to internal tools, business processes and data-driven workflows.
 
 ---
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Speranza-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-speranza-7692731a3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Speranza-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniosperanza/)
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-antoniohope-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/antoniohope)
+
 [![Telegram](https://img.shields.io/badge/Telegram-antoniohopee-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/antoniohopee)
